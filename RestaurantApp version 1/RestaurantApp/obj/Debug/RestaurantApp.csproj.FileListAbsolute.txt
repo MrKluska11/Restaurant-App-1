@@ -1,0 +1,28 @@
+C:\Users\Kamil\Desktop\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.exe.config
+C:\Users\Kamil\Desktop\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.exe
+C:\Users\Kamil\Desktop\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.pdb
+C:\Users\Kamil\Desktop\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.RestaurantApp.resources
+C:\Users\Kamil\Desktop\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.Properties.Resources.resources
+C:\Users\Kamil\Desktop\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.csproj.GenerateResource.Cache
+C:\Users\Kamil\Desktop\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.exe
+C:\Users\Kamil\Desktop\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.pdb
+C:\Users\Kamil\Desktop\RestaurantApp\RestaurantApp\bin\Debug\RestaurantClassLibrary.dll
+C:\Users\Kamil\Desktop\RestaurantApp\RestaurantApp\bin\Debug\RestaurantClassLibrary.pdb
+C:\Users\Kamil\Desktop\RestaurantApp version 1\RestaurantApp\bin\Debug\RestaurantApp.exe.config
+C:\Users\Kamil\Desktop\RestaurantApp version 1\RestaurantApp\obj\Debug\RestaurantApp.exe
+C:\Users\Kamil\Desktop\RestaurantApp version 1\RestaurantApp\obj\Debug\RestaurantApp.pdb
+C:\Users\Kamil\Desktop\RestaurantApp version 1\RestaurantApp\bin\Debug\RestaurantApp.exe
+C:\Users\Kamil\Desktop\RestaurantApp version 1\RestaurantApp\bin\Debug\RestaurantApp.pdb
+C:\Users\Kamil\Desktop\RestaurantApp version 1\RestaurantApp\bin\Debug\RestaurantClassLibrary.dll
+C:\Users\Kamil\Desktop\RestaurantApp version 1\RestaurantApp\bin\Debug\RestaurantClassLibrary.pdb
+C:\Users\Kamil\Desktop\RestaurantApp version 1\RestaurantApp\obj\Debug\RestaurantApp.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\RestaurantApp version 1\RestaurantApp\obj\Debug\RestaurantApp.RestaurantApp.resources
+C:\Users\Kamil\Desktop\RestaurantApp version 1\RestaurantApp\obj\Debug\RestaurantApp.Properties.Resources.resources
+C:\Users\Kamil\Desktop\RestaurantApp version 1\RestaurantApp\obj\Debug\RestaurantApp.csproj.GenerateResource.Cache
+C:\Users\Kamil\Desktop\RestaurantApp version 1 bez bazy\RestaurantApp\bin\Debug\RestaurantApp.exe.config
+C:\Users\Kamil\Desktop\RestaurantApp version 1 bez bazy\RestaurantApp\obj\Debug\RestaurantApp.exe
+C:\Users\Kamil\Desktop\RestaurantApp version 1 bez bazy\RestaurantApp\obj\Debug\RestaurantApp.pdb
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\RestaurantApp version 1\RestaurantApp\bin\Debug\RestaurantApp.exe.config
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\RestaurantApp version 1\RestaurantApp\obj\Debug\RestaurantApp.exe
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\RestaurantApp version 1\RestaurantApp\obj\Debug\RestaurantApp.pdb

@@ -1,0 +1,10 @@
+C:\Users\Kamil\Desktop\RestaurantApp\RestaurantClassLibrary\bin\Debug\RestaurantClassLibrary.dll
+C:\Users\Kamil\Desktop\RestaurantApp\RestaurantClassLibrary\bin\Debug\RestaurantClassLibrary.pdb
+C:\Users\Kamil\Desktop\RestaurantApp\RestaurantClassLibrary\obj\Debug\RestaurantClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\RestaurantApp\RestaurantClassLibrary\obj\Debug\RestaurantClassLibrary.dll
+C:\Users\Kamil\Desktop\RestaurantApp\RestaurantClassLibrary\obj\Debug\RestaurantClassLibrary.pdb
+C:\Users\Kamil\Desktop\RestaurantApp version 1\RestaurantClassLibrary\bin\Debug\RestaurantClassLibrary.dll
+C:\Users\Kamil\Desktop\RestaurantApp version 1\RestaurantClassLibrary\bin\Debug\RestaurantClassLibrary.pdb
+C:\Users\Kamil\Desktop\RestaurantApp version 1\RestaurantClassLibrary\obj\Debug\RestaurantClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\RestaurantApp version 1\RestaurantClassLibrary\obj\Debug\RestaurantClassLibrary.dll
+C:\Users\Kamil\Desktop\RestaurantApp version 1\RestaurantClassLibrary\obj\Debug\RestaurantClassLibrary.pdb
